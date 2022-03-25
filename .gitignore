@@ -1,0 +1,8 @@
+app/migrations
+data
+NF FERNANDO
+tests
+venv
+main.py
+tools.py
+djangoAPI/db.sqlite3
